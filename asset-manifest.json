@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/testimonios-codecamp/static/css/main.704a5da9.css",
+    "main.js": "/testimonios-codecamp/static/js/main.f6c0c2d1.js",
+    "static/media/testimonio-emma.png": "/testimonios-codecamp/static/media/testimonio-emma.add10415a5668325d2f2.png",
+    "static/media/testimonio-sarah.png": "/testimonios-codecamp/static/media/testimonio-sarah.2c504d1ebaf1961e4a40.png",
+    "static/media/testimonio-shawn.png": "/testimonios-codecamp/static/media/testimonio-shawn.0d373888087fb18fc145.png",
+    "index.html": "/testimonios-codecamp/index.html",
+    "main.704a5da9.css.map": "/testimonios-codecamp/static/css/main.704a5da9.css.map",
+    "main.f6c0c2d1.js.map": "/testimonios-codecamp/static/js/main.f6c0c2d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.704a5da9.css",
+    "static/js/main.f6c0c2d1.js"
+  ]
+}
